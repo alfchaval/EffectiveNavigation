@@ -1,0 +1,4 @@
+#Wed Dec 13 13:26:58 CET 2017
+base.0=/home/usuario/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/home/usuario/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
